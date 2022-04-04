@@ -18,6 +18,6 @@
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/nishchay1576/Face-Mask_Detection-Using-OPenCV/blob/main/Face%20mask%20detection.png" />
+  <img width="400" src="https://github.com/nishchay1576/Face-Mask_Detection-Using-OPenCV/blob/main/Face%20mask%20detection.png" /><br/>Face Mask Detection using OpenCv
  <a href="https://github.com/nishchay1576/Face-Mask_Detection-Using-OPenCV">
 </a>
