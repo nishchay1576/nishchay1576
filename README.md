@@ -1,4 +1,3 @@
-### Hi there 👋
 <p>
   <h1 align="center"><b>Hi there, I'm Nishchay</h1>
 </p>
